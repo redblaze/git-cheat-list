@@ -13,7 +13,7 @@ git clone <repository-path> [destination directory]
 
 ```text
 git branch <branch-name>
-```text
+```
 
 ### Create and checkout:
 
