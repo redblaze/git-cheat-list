@@ -1,12 +1,19 @@
 git-cheat-list
 ==============
 
-To clone a repo:
+##To clone a repo:
+
+```text
 git clone <repository-path> [destination directory]
-To create a branch:
-Create only:
+```
+
+## To create a branch:
+
+### Create only:
+
 git branch <branch-name>
-Create and checkout:
+
+### Create and checkout:
 git checkout -b <branch-name>
 To push new branch to repo:
 git push -u origin <branch-name>
